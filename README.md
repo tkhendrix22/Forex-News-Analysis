@@ -107,3 +107,5 @@ The models have limitations, including the potential influence of external facto
 # Observations & Conclusions
 This project seamlessly combines machine learning and time series forecasting to predict the sentiment of Forex news articles. By integrating these two approaches, it offers comprehensive insights into the influence of economic indicators and events on the foreign exchange market. These insights empower traders with valuable information to make informed decisions and devise effective trading strategies.
 
+Disclaimer: The content of this project is for informational purposes only and should not be considered as financial advice or trading recommendations. Forex trading involves risk, and individuals should conduct thorough research and seek professional advice before making trading decisions.
+
