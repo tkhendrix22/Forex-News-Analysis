@@ -1,6 +1,8 @@
 # Forex-News-Analysis and Forcasting Project
 
-![image](https://github.com/tkhendrix22/Forex-News-Analysis/assets/113871039/38479fb5-907f-4e20-a9b1-ecde49bafd59)
+![image](https://github.com/tkhendrix22/Forex-News-Analysis/assets/113871039/f13e2520-cdef-42ee-a5fc-2b09d084199f)
+
+
 
 
 By: Troy Hendrickson
